@@ -8,5 +8,6 @@ Baysarb saytının login hissəsi üçün yazılan frontend proyekti
 
 ## Qurulum
 
-git clone git@github.com:baysarb/login-front.git
-cd login-front
+`git clone git@github.com:baysarb/login-front.git`
+
+`cd login-front`
